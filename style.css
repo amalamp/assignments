@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+  
+    color: white;
+    background-color: rgba(0, 0, 0, 0.657);
+}
+h1{
+    text-align: center;
+}
+.form-control{
+    color: mintcream;
+    margin: 50px;
+    background-color: rgb(112, 31, 145)
+}
+.form-control:hover{
+    background-color: rgb(47, 127, 158);
+}
+table, th, tr,td{
+    color: white;
+    align-self: flex-end;
+
+    border-collapse: separate;
+    background-color:rgb(57, 24, 204);
+    padding: 15px;
+}
+th{
+    text-align:center;
+    background-color:green;
+}
+
+table{
+    border-spacing: 2px;
+}
+#table{
+    background-image:url(nathalia-rosa-rWMIbqmOxrY-unsplash.jpg)
+}
+.tableheading{
+    background-color: grey;
+    color:rgb(124, 33, 33);
+}
+#shop{
+    width: 1300px;
+    height: 250px;
+}

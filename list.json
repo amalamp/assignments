@@ -1,0 +1,154 @@
+{
+    "spec":[
+            {
+            "Sl.no":"1",
+            "Name":"Pavizam reice",
+            "Quantity(in g)":"1000",
+            "Unit.no":"lk1234",
+            "Department":"food product",
+            "Note":"keep in clene place",
+            "Price(Rs)":"41"
+           },
+
+           {
+            "Sl.no":"2",
+            "Name":"Lifeboy",
+            "Quantity(in g)":"25",
+            "Unit.no":"lf-1234",
+            "Department":"helthcare",
+            "Note":"bundle of packet",
+            "Price(Rs)":"24"
+           },
+
+           {
+            "Sl.no":"3",
+            "Name":"rich gold oil",
+            "Quantity(in g)":"1000",
+            "Unit.no":"l/k1245",
+            "Department":"food product",
+            "Note":"keep in cool condition",
+            "Price(Rs)":"120"
+           },
+           {
+            "Sl.no":"4",
+            "Name":"classmate",
+            "Quantity(in g)":"80",
+            "Unit.no":"c/ml1247",
+            "Department":"notebook",
+            "Note":"keep out from wet places",
+            "Price(Rs)":"30"
+           },
+
+           {
+            "Sl.no":"5",
+            "Name":"Estern curry power",
+            "Quantity(in g)":"250",
+            "Unit.no":"lk78",
+            "Department":"food powder",
+            "Note":"confirm that seal in not broken",
+            "Price(Rs)":"76"
+           },
+
+           {
+            "Sl.no":"6",
+            "Name":"Everedy",
+            "Quantity(in g)":"2",
+            "Unit.no":"ed-454",
+            "Department":"electric",
+            "Note":"make shure it is not leaked",
+            "Price(Rs)":"24"
+           },
+           {
+            "Sl.no":"7",
+            "Name":"kadak matches",
+            "Quantity(in g)":"10",
+            "Unit.no":"k-we23",
+            "Department":"matches",
+            "Note":"box with 40 sticks",
+            "Price(Rs)":"10"
+           },
+
+           {
+            "Sl.no":"8",
+            "Name":"kp nambodiris",
+            "Quantity(in g)":"1",
+            "Unit.no":"170",
+            "Department":"toothpaste",
+            "Note":"manufactured after march 2020",
+            "Price(Rs)":"149"
+           },
+           {
+            "Sl.no":"9",
+            "Name":"orange",
+            "Quantity(in g)":"4",
+            "Unit.no":"li-234",
+            "Department":"fruits",
+            "Note":"not much rippend",
+            "Price(Rs)":"80"
+           },
+           {
+            "Sl.no":"10",
+            "Name":"Horlics",
+            "Quantity(in g)":"650",
+            "Unit.no":"hn-12",
+            "Department":"enary powder",
+            "Note":"not necessery",
+            "Price(Rs)":"380"
+           },
+           {
+            "Sl.no":"11",
+            "Name":"candle light",
+            "Quantity(in g)":"10",
+            "Unit.no":"qw11",
+            "Department":"lights",
+            "Note":"large candles",
+            "Price(Rs)":"35"
+           } ,
+            {
+            "Sl.no":"12",
+            "Name":"biscuts",
+            "Quantity(in g)":"5",
+            "Unit.no":"kj-wex12",
+            "Department":"bicuts",
+            "Note":"select from avaliable ",
+            "Price(Rs)":"250"
+           },
+           {
+            "Sl.no":"13",
+            "Name":"snacks",
+            "Quantity(in g)":"4",
+            "Unit.no":"nil",
+            "Department":"snacks",
+            "Note":"any of snacks",
+            "Price(Rs)":"300"
+           },
+           {
+            "Sl.no":"14",
+            "Name":"ice cram",
+            "Quantity(in g)":"600",
+            "Unit.no":"sd-1",
+            "Department":"ice cream",
+            "Note":"priffer Amul",
+            "Price(Rs)":"450"
+           },
+
+           {
+                "Sl.no":"15",
+                "Name":"sanitiser",
+                "Quantity(in g)":"600",
+                "Unit.no":"nil",
+                "Department":"healthcare",
+                "Note":"best quality",
+                "Price(Rs)":"450"
+               },
+               {
+                "Sl.no":"16",
+                "Name":"face mask",
+                "Quantity(in g)":"10 ps",
+                "Unit.no":"df-1",
+                "Department":"healthcare",
+                "Note":"best quality",
+                "Price(Rs)":"70"
+               }
+        ]
+}
